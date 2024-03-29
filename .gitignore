@@ -1,0 +1,5 @@
+.env
+__pycache__
+virt
+players.csv
+csv_spliter.py
